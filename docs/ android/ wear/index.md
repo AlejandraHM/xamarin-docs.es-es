@@ -20,9 +20,8 @@ Android Wear es una versión de Android que está diseñado para dispositivos po
 
 ##  <a name="getting-startedandroidwearget-startedindexmd"></a>[Introducción](~/android/wear/get-started/index.md)
 
-Presenta Android Wear, se describe cómo instalar y configurar el equipo para el desarrollo de desgaste y proporciona los pasos necesarios para ayudarle a crear y ejecutar su primera aplicación Android Wear en un emulador o dispositivo Wear.
-
-##  <a name="user-interfaceandroidwearuser-interfaceindexmd"></a>[Interfaz de usuario](~/android/wear/user-interface/index.md)
+  Android wear,describe cómo instalar y configurar el equipo para el desarroll del desgaste y los pasos necesarios para el manejo y la ejecución de la aplicación Android wear en un emulador o dispositivo wear.
+#  <a name="user-interfaceandroidwearuser-interfaceindexmd"></a>[Interfaz de usuario](~/android/wear/user-interface/index.md)
 
 Explica Android Wear específicos controlan y proporcionan vínculos a ejemplos que muestran cómo usar estos controles.
 
